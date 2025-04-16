@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @eddyali1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @Eddy ali 
+**.NET Developer | Backend Engineer | Cloud-Ready App Enthusiast**
 
-<!---
-eddyali1/eddyali1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**I’m interested in**  
+- Building secure and scalable applications using .NET Core  
+- Developing RESTful APIs and web services  
+- Integrating cloud services (Azure, AWS)  
+- Database design with SQL Server and Entity Framework  
+- Blending modern frontend tech with powerful .NET backends  
+
+**I’m currently learning**  
+- Microservices architecture with .NET  
+- Azure DevOps and CI/CD pipelines  
+- Clean code practices and DDD  
+- Blazor for dynamic front-end development  
+
+**I’m looking to collaborate on**  
+- Full stack .NET projects  
+- Enterprise-level cloud-native applications  
+- Open-source libraries and backend tools  
+
+**How to reach me**  
+- Email: wally.a.email@gmail.com  
+
+**Fun fact**  
+I can refactor legacy code faster than most people can write new features — clean and efficient is my style.
